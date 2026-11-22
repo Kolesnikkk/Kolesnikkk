@@ -1,16 +1,16 @@
-## Hi there 👋
+# Привіт, я Данило 👋
 
-<!--
-**Kolesnikkk/Kolesnikkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студент 1 курсу, група ЗІПЗ-26, спеціальність «Інженерія програмного забезпечення».
 
-Here are some ideas to get you started:
+## Про мене
+- 🎓 Вивчаю основи програмування на C++ та алгоритмізацію
+- 🌱 Освоюю Git, GitHub та Markdown
+- 🎯 Мета — стати embedded / backend-розробником
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Технології
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white)
+
+## Зв’язок
+- 📧 kolesnikkdanylo@gmail.com
